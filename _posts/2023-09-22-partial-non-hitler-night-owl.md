@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Partial, Non-Hitler Night Owl: An Experimental Work Routine (Sept 2023)"
+title:  "The Partial, Non-Hitler Night Owl: An Experimental Work Routine"
 author: abeerration
 categories: [ Work, Life ]
 image: assets/images/home.jpg
