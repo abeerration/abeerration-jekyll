@@ -34,6 +34,14 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+    abeerration:
+      name:           abeerration
+      site:           https://abeerration.github.io
+      avatar:         /assets/images/avatar1.jpg
+      bio:            ""
+      email:          
+      twitter:        
  
 # Defaults
 defaults:
